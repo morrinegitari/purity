@@ -21,3 +21,16 @@ print(x+y)
 m=39
 x=2
 print("the product of x and m is",m*x)
+
+birthyear =input("Enter Your Birth Year")
+age =2025-int (birthyear)
+print(age)
+
+y=20
+m=10.5
+sum = int(y +m)
+print("the sum of y and m is" ,float(sum))
+
+y=10**3
+print(y)
+
