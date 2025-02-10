@@ -8,9 +8,9 @@ else:
 
     # A program that returns the largest number
 
-first =89
-second=30
-third =56
+first =int(input("enter number"))
+second=int(input("enter number"))
+third =int(input("enter number"))
 
 if first > second and first > third :
     print(first, "is the largest number")
